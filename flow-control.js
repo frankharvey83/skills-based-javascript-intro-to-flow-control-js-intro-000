@@ -1,4 +1,5 @@
-function basicTeenager(age) {
+function basicTeenager(age === <20 || >12) {
+  return ("You are a teenager!")
 
 }
 
