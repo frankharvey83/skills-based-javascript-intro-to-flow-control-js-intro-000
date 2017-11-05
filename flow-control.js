@@ -3,11 +3,12 @@ if (age > 12) {
   return ("You are a teenager!");
 } else if (age < 20) {
   return ("You are a teenager!");
+} else {
+  
 }
   }
 
-function teenager(age) {
-  if (age > 12)
+function teenager(age)  {
 
 }
 
