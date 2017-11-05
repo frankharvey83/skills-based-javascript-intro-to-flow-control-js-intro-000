@@ -14,7 +14,7 @@ function teenager(age)  {
 } else if (age > 19)  {
   return ("You are not a teenager!");
 } else if (age < 13)  {
-  retrun ("You are not a teenager!");
+  return ("You are not a teenager!");
 }
   }
 
