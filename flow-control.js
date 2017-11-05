@@ -4,6 +4,7 @@ if (age > 13) {
 } else if (age < 20) {
   return ("You are a tennager!")
 }
+}
 
 function teenager(age) {
 
